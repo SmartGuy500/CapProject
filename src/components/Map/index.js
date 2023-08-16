@@ -14,3 +14,6 @@ loader.load().then(async () => {
     zoom: 8,
   });
 });
+
+// https://developers.google.com/maps/documentation/javascript/overview#js_api_loader_package
+// https://developers.google.com/profile/u/me
